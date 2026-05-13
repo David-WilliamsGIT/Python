@@ -12,8 +12,8 @@ I will also be using Dr Angela Yu's 100 days of Code Udemy course that can be fo
 
 Disclaimer: All rights of the original are Bro Codes + Dr Angela Yu's Udemy course and I use this purely as educational purposes. I only
 add, change or try to make my own code out of some of the originals to practice, learn and try to see
-if I can make something before or during the watching of his videos. Most are a copy of the original code
-he writes.
+if I can make something before or after watching of their videos. Most are a copy of the original code
+they both write.
 <br>
 
 <br>
